@@ -1,11 +1,19 @@
 body {
     color:darkblue;
+    background-color: beige;
 }
 
 h1{
-    background-color:beige;
+    text-shadow: 5pt;
+    text-decoration: wavy;
 }
 
 h2{
     background-color:beige;
+}
+
+hr{
+    height: 5pt;
+    background-color: darkblue;
+    outline-color: darkblue;
 }
